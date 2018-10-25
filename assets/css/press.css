@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "BebasNeue";
+    src: url('../images/fonts/BebasNeue-Regular.ttf');
+}
+body {
+    color: rgb(126, 126, 126);
+    background-color: rgb(243, 243, 243);
+}
+
+#logo {
+    width: 100%;
+    position: sticky;
+    margin-top: .5em;
+    margin-bottom: 5em;
+    margin-left: 0em;
+}
+
+p {
+    font-size: 1em;
+}
+
+.col-lg-1 {
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 200px;
+ }
+
+a, a:link, a:visited, a:active {
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(255, 97, 0);
+}
+
+img {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+img:hover{
+    opacity: .5;
+}
+
+.footer {
+    text-align: center;
+    font-size: .5em;
+    margin-top: 5em;
+    margin-bottom: 1em;
+}
+
+
+.fas {
+    font-size: 1em;
+}
+
+.fab {
+    font-size: 1em;
+}
+
+h4 {
+    text-align: left;
+}
+
+#laTimes {
+    width: 25em;
+    margin-bottom: -0.2em;
+}
+
+#hgtvLogo {
+    width: 10em;
+}
+
+#people {
+    width: 12em;
+}
+
+#saatchi {
+    width: 18em;
+}
